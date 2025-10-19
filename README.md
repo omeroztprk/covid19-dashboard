@@ -1,4 +1,4 @@
-# Covid-19 Dashboard
+# COVID-19 Dashboard
 
 ## Description
 
@@ -28,13 +28,13 @@ With its simple CLI utilities and Dockerized setup, COVID-19 Dashboard enables r
 <table>
   <tr>
     <td align="center">
-      <a href="screenshots/image1.png">
-        <img src="screenshots/image1.png" alt="" width="260">
+      <a href="screenshots/graphs1.png">
+        <img src="screenshots/graphs1.png" alt="" width="260">
       </a><br/><sub></sub>
     </td>
     <td align="center">
-      <a href="screenshots/image2.png">
-        <img src="screenshots/image2.png" alt="" width="260">
+      <a href="screenshots/graphs2.png">
+        <img src="screenshots/graphs2.png" alt="" width="260">
       </a><br/><sub></sub>
     </td>
   </tr>
